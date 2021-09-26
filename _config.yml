@@ -12,4 +12,4 @@ github_username:  fikar # DO NOT include the @ character, or else the build will
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: architect
+theme: jekyll-theme-minimal
